@@ -27,25 +27,24 @@ Conclusion :
 We learned the difference between iteration and recursion. The iterative method is more memory-efficient, while recursion provides a simple way to solve the factorial problem by breaking it into smaller problems. 
 
 practical 5:
-Summary
+Summary:
 1.The Knapsack Problem is solved efficiently using Dynamic Programming.
 2.The problem is divided into smaller subproblems.
 3.A DP table stores the maximum profit for different capacities.
 
-Conclusion
+Conclusion :
 Dynamic Programming provides an optimal solution to the 0/1 Knapsack Problem.It considers all possible item combinations systematically.The maximum possible profit is obtained within the given capacity.
 
 practical 6:
-Summary
+Summary:
 Matrix Chain Multiplication using Dynamic Programming finds the most efficient order to multiply a sequence of matrices. It divides the problem into smaller subproblems and stores their minimum multiplication costs in a DP table.
 
-Conclusion
+Conclusion:
 Dynamic Programming is an efficient technique for solving the Matrix Chain Multiplication problem. It determines the optimal parenthesization of matrices and minimizes the overall multiplication cost. The algorithm has a time complexity of O(n³) and space complexity of O(n²).
 
 practicle 7:
-Summary
-
+Summary:
 The Making Change Problem is solved using Dynamic Programming to find the minimum number of coins required to make a given amount. The problem is divided into smaller subproblems, and the results are stored in a DP table. 
 
-Conclusion
+Conclusion:
 Dynamic Programming provides an optimal and efficient solution for the Making Change Problem. It systematically considers different coin combinations and finds the minimum number of coins needed for the required amount.
