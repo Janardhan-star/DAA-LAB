@@ -48,3 +48,31 @@ The Making Change Problem is solved using Dynamic Programming to find the minimu
 
 Conclusion:
 Dynamic Programming provides an optimal and efficient solution for the Making Change Problem. It systematically considers different coin combinations and finds the minimum number of coins needed for the required amount.
+
+Practical 8 :
+
+Summary:
+Graph traversal was implemented using DFS and BFS techniques.DFS explores deeply, while BFS explores level by level.Both methods are useful for visiting graph vertices.
+
+Conclusion :
+ DFS and BFS are important graph traversal techniques.They help in finding and visiting connected vertices efficiently.Both are widely used in graph-based applications.
+
+Practical 9 :
+
+Summary:
+ Prim’s algorithm was implemented to find the Minimum Spanning Tree.It selects the minimum-weight edge at each step
+It connects all vertices without forming cycles.
+
+Conclusion: 
+ Prim’s algorithm finds a minimum-cost spanning tree.It connects all vertices with minimum total edge weight
+It is useful for network and connectivity problems.
+
+Practical 10 :
+
+Summary: 
+ Kruskal’s algorithm was implemented to find the Minimum Spanning Tree. Edges are selected in increasing order of their weights.
+Cycles are avoided while connecting all vertices.
+
+Conclusion: 
+  Kruskal’s algorithm efficiently finds the minimum spanning tree.It selects the lowest-cost edges while avoiding cycles
+It is useful for designing minimum-cost networks.
